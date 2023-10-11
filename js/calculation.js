@@ -13,10 +13,9 @@ function getInputFieldValueById(inputId){
     const newResult = document.createElement('div');
     const countElement = document.getElementsByClassName('specific-element-area').length;
     newResult.innerHTML = 
-    `<div class="grid grid-cols-3 items-center px-2 mt-4 specific-element-area">
+    `<div class="grid grid-cols-2 items-center px-2 mt-4 specific-element-area">
         <span>${countElement}.<span></span> ${areaType}</span>
         <span>${newValue} cm<sup>2</sup></span>
-        <button class="text-white bg-blue-700 py-2 rounded-lg" class="btn-convert-to-meter">Conver To m<sup>2</sup></button>
         <span></span>
     </div>`;
     
