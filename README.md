@@ -1,6 +1,6 @@
 ### Formula Mastermind
 
-# Live Link: https://classy-tulumba-04af43.netlify.app/
+# Live Link: https://65260c58c9785271c25268ba--classy-tulumba-04af43.netlify.app/
 
 # Featured:
 * User can easy calculate Area of Triangle, Rectangle, Parallelogram, Rhombus, Pentagon and Ellipse.
